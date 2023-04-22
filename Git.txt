@@ -1,0 +1,7 @@
+- Git status: Kiểm tra thay đổi trong folder
+- git add: Đẩy toàn bộ file lên 
+- git commit -m "Tên folder dag chứa"
+- git push origin "tên branch"
+- git clone "đường dẫn" -b "tên branch" : Clone 1 branch theo ý mh 
+- git checkout -b "tên nhánh" : Chuyển sang 1 nhánh khác
+- git pull origin "tên nhánh" : lấy thay đổi trên github
