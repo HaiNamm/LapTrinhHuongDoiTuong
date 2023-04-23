@@ -1,7 +1,0 @@
-CREATE TABLE studentManage (
-	stt int NOT NULL AUTO_INCREMENT,
-	IDLop VARCHAR(100) NOT NULL,
-	TenLop VARCHAR(50) NOT NULL,
-	KhoaHoc int NOT NULL,	
-	PRIMARY KEY (stt)
-);
